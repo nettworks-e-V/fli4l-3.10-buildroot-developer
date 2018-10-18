@@ -1,5 +1,5 @@
 FROM nettworksevtooling/fli4l-3.10-buildroot-container:latest
-MAINTAINER Yves Schumann <yves@eisfair.org>
+MAINTAINER Florian Wolters <fli4l@florian-wolters.de>
 
 # Define build arguments
 ARG DEVELOP_USER=developer
